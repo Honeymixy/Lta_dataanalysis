@@ -27,6 +27,8 @@ TASK 4: Sum of Profits for Hudson model cars by Dealer ID - as a line chart, tit
 
 TASK 5: Save your workbook: Use Save As to save your completed workbook as CarSalesByModelEnd.xlsx
 
+### Data visualizations
+
 
 
 
