@@ -30,6 +30,7 @@ TASK 5: Save your workbook: Use Save As to save your completed workbook as CarSa
 ### Data visualizations
 
 
+![vis](https://github.com/user-attachments/assets/911c3f60-b025-4e5f-90e1-ff5a859bcf61)
 
 
 ``` SQL
